@@ -32,7 +32,7 @@ span {
     top: 0;
     right: 50px;
     writing-mode: vertical-lr;
-    font-size: 10px;
+    font-size: 16px;
     line-height: 13px;
     text-transform: uppercase;
     font-weight: lighter;
@@ -61,7 +61,7 @@ p {
         & h1 {
             font-weight: bold;
             margin: 20px 0px 40px 0px;
-            letter-spacing: -0.045em;
+            // letter-spacing: -0.045em;
             font-family: 'PT Serif', serif;
         }
     }
