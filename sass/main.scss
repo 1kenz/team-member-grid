@@ -5,14 +5,13 @@
 @import "responsive";
 * {
     box-sizing: border-box;
-    margin: 0;
     padding: 0;
     margin: 0 auto;
-    // font-size: large;
     // border: 2px solid red;
 }
 
 body {
+    // width: 90%;
     margin: 50px auto;
 }
 
@@ -21,16 +20,15 @@ img {
     height: auto;
     display: block;
     border-radius: 5px;
-    place-items: center start;
-    margin: 0px 0 0;
+    margin: 0px auto;
 }
 
 span {
     font-family: 'PT Serif', serif;
-    margin: 0 40px;
+    margin: 0 20px;
     position: absolute;
     top: 0;
-    right: 50px;
+    right: 0px;
     writing-mode: vertical-lr;
     font-size: 16px;
     line-height: 13px;
@@ -44,7 +42,7 @@ p {
     line-height: 27px;
     font-size: 18px;
     font-weight: bold;
-    margin: 20px 0;
+    margin: 20px 65px;
 }
 
 .container {
@@ -61,20 +59,15 @@ p {
         & h1 {
             font-weight: bold;
             margin: 20px 0px 40px 0px;
-            // letter-spacing: -0.045em;
             font-family: 'PT Serif', serif;
         }
     }
     &__header2 {
         grid-area: 1/4/3/7;
         font-family: 'Poppins', sans-serif;
-        // display: flex;
-        // flex-direction: column;
         width: 100%;
         padding: 10px;
         margin-bottom: 25px;
-        // width: 100%;
-        // padding: 10px;
         & h3 {
             font-size: 18px;
             padding: 10px;
@@ -82,12 +75,13 @@ p {
         & p {
             font-size: 14px;
             padding: 10px;
+            margin: 0;
+            font-weight: lighter;
         }
     }
     &__box1 {
         grid-area: 3/1/8/3;
         position: relative;
-        /* height: 300px; */
     }
     &__box2 {
         grid-area: 3/3/8/5;
