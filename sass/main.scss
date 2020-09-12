@@ -13,6 +13,7 @@
 body {
     // width: 90%;
     margin: 50px auto;
+    text-align: justify;
 }
 
 img {
@@ -30,6 +31,7 @@ span {
     top: 0;
     right: 0px;
     writing-mode: vertical-lr;
+    // transform: rotate(90deg);
     font-size: 16px;
     line-height: 13px;
     text-transform: uppercase;
@@ -43,6 +45,7 @@ p {
     font-size: 18px;
     font-weight: bold;
     margin: 20px 50px;
+    // text-align: justify;
 }
 
 .container {
@@ -73,7 +76,7 @@ p {
             padding: 10px;
         }
         & p {
-            font-size: 14px;
+            // font-size: 14px;
             padding: 10px;
             margin: 0;
             font-weight: lighter;
