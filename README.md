@@ -1,1 +1,1 @@
-# https://xkendx.github.io/team-member
+# https://xkendx.github.io/team-member-grid
