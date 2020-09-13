@@ -2,11 +2,13 @@
 @import "globals";
 @import "header";
 @import "body";
-@import "responsive";
+@import "toggle";
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0 auto;
+    background-color: $primaryColor;
+    color: $secondaryColor;
     // border: 2px solid red;
 }
 
@@ -108,4 +110,9 @@ p {
         grid-area: 8/5/13/7;
         position: relative;
     }
+}
+
+.section-dark {
+    background-color: $secondaryColor !important;
+    color: $primaryColor !important;
 }
