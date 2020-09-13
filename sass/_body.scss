@@ -1,0 +1,35 @@
+.container {
+    max-width: 90%;
+    margin: 0 auto;
+    display: grid;
+    grid-template: repeat(6, 1fr), repeat(12, 1fr);
+    grid-gap: 10px;
+    background-color: $primaryColor;
+    color: $secondaryColor;
+    &__box1 {
+        grid-area: 3/1/8/3;
+        position: relative;
+    }
+    &__box2 {
+        grid-area: 3/3/8/5;
+        margin: 75px 0 0;
+        position: relative;
+    }
+    &__box3 {
+        grid-area: 3/5/8/7;
+        position: relative;
+    }
+    &__box4 {
+        grid-area: 8/1/13/3;
+        position: relative;
+    }
+    &__box5 {
+        grid-area: 8/3/13/5;
+        margin: 75px 0 0;
+        position: relative;
+    }
+    &__box6 {
+        grid-area: 8/5/13/7;
+        position: relative;
+    }
+}

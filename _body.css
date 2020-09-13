@@ -1,0 +1,33 @@
+.container {
+  max-width: 90%;
+  margin: 0 auto;
+  display: grid;
+  grid-template: repeat(6, 1fr), repeat(12, 1fr);
+  grid-gap: 10px;
+}
+.container__box1 {
+  grid-area: 3/1/8/3;
+  position: relative;
+}
+.container__box2 {
+  grid-area: 3/3/8/5;
+  margin: 75px 0 0;
+  position: relative;
+}
+.container__box3 {
+  grid-area: 3/5/8/7;
+  position: relative;
+}
+.container__box4 {
+  grid-area: 8/1/13/3;
+  position: relative;
+}
+.container__box5 {
+  grid-area: 8/3/13/5;
+  margin: 75px 0 0;
+  position: relative;
+}
+.container__box6 {
+  grid-area: 8/5/13/7;
+  position: relative;
+}
