@@ -5,6 +5,7 @@
 }
 
 body {
+  width: 90%;
   margin: 50px auto;
   text-align: justify;
 }
@@ -76,7 +77,6 @@ p {
 }
 
 .container {
-  display: flex;
   margin: 100px 0 0;
 }
 .container__header1 {
