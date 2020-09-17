@@ -1,5 +1,3 @@
-# https://xkendx.github.io/team-member-grid
-
 <!-- Please update value in the {}  -->
 
 <h1 align="center">team-member-grid</h1>
@@ -33,9 +31,10 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](./img/team-member-gif.gif)
+<!-- ![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png) -->
 
-Introduce your projects by taking a screenshot or a gif. 
+<!-- Introduce your projects by taking a screenshot or a gif. -->
 
 ### Built With
 
@@ -76,7 +75,7 @@ $ npm start
 
 ## Contact
 
-- Website [@visit mywebsite] (http://www.kenandeniz.com.tr)
+- Website [@xkendx](http://www.kenandeniz.com.tr)
 - GitHub [@xkendx](https://github.com/xkendx)
 
 - Linkedin [@kenandeniz](https://linkedin.com/kenan-deniz})
