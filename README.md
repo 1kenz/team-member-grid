@@ -2,16 +2,16 @@
 
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{team-member-grid}</h1>
+<h1 align="center">team-member-grid</h1>
 
 
 <div align="center">
   <h3>
-    <a href="https://{https://xkendx.github.io/team-member-grid}">
+    <a href="https://xkendx.github.io/team-member-grid">
       Demo
     </a>
      | 
-    <a href="https://{https://xkendx.github.io/team-member-grid}">
+    <a href="https://xkendx.github.io/team-member-grid">
       Project
     </a>
  
@@ -76,9 +76,9 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- Website [your-website.com](http://www.kenandeniz.com.tr)
+- GitHub [@xkendx](https://github.com/xkendx)
 
-- Linkedin [@your-linkedin](https://{linkedin.com/your-username})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Linkedin [@kenandeniz](https://linkedin.com/kenan-deniz})
+<!-- - Twitter [@your-twitter](https://{twitter.com/your-username}) -->
 
