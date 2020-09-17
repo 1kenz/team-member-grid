@@ -2,16 +2,16 @@
 
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">{team-member-grid}</h1>
 
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://{https://xkendx.github.io/team-member-grid}">
       Demo
     </a>
      | 
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{https://xkendx.github.io/team-member-grid}">
       Project
     </a>
  
