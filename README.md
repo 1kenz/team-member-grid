@@ -76,7 +76,7 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](http://www.kenandeniz.com.tr)
+- Website [@visit mywebsite] (http://www.kenandeniz.com.tr)
 - GitHub [@xkendx](https://github.com/xkendx)
 
 - Linkedin [@kenandeniz](https://linkedin.com/kenan-deniz})
