@@ -78,6 +78,6 @@ $ npm start
 - Website [@xkendx](http://www.kenandeniz.com.tr)
 - GitHub [@xkendx](https://github.com/xkendx)
 
-- Linkedin [@kenandeniz](https://linkedin.com/kenan-deniz})
+- Linkedin [@kenandeniz](https://linkedin.com/kenan-deniz)
 <!-- - Twitter [@your-twitter](https://{twitter.com/your-username}) -->
 
